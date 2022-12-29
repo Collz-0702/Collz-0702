@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Collz-0702
 - 👀 I’m interested in Software Testing(Automation and Manual), Data Analysis
-- 🌱 I’m currently learning Automation Testing, Python and Javascript
+- 🌱 I’m currently gaining practice in Automation Testing, Python and Javascript and Data analysis
 - 💞️ I’m looking to transition into the Tech field as a SDET and/or Data Analysis/Engineer
 - 📫 How to reach me colleen.williams0702@gmail.com
 
